@@ -1,0 +1,11 @@
+﻿  kutulu random harf.cpp
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(69,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(70,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(71,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(72,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(73,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(74,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(75,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\selin\Desktop\kutulu random harf\kutulu random harf\kutulu random harf.cpp(76,24): warning C4309: 'initializing': truncation of constant value
+  kutulu random harf.vcxproj -> C:\Users\selin\Desktop\kutulu random harf\Debug\kutulu random harf.exe
